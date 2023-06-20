@@ -1,22 +1,4 @@
 {
-  "_from": "cypress-magento-rest-client@0.0.1",
-  "_inBundle": false,
-  "_integrity": "sha1-Km7yMMiBKahoC2Pq03k+p+mb9qQ=",
-  "_location": "/cypress-magento-rest-client",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "cypress-magento-rest-client@0.0.1",
-    "name": "cypress-magento-rest-client",
-    "escapedName": "cypress-magento-rest-client",
-    "rawSpec": "0.0.1",
-    "saveSpec": null,
-    "fetchSpec": "0.0.1"
-  },
-  "_requiredBy": [
-    "/"
-  ],
   "author": {
     "name": "Studio Raz",
     "email": "support@studioraz.co.il"
