@@ -1,6 +1,5 @@
 {
   "_from": "cypress-magento-rest-client@0.0.1",
-  "_id": "cypress-magento-rest-client@0.0.1",
   "_inBundle": false,
   "_integrity": "sha1-Km7yMMiBKahoC2Pq03k+p+mb9qQ=",
   "_location": "/cypress-magento-rest-client",
@@ -54,5 +53,5 @@
   "scripts": {
     "test": "cypress open"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
