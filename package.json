@@ -38,7 +38,7 @@
   "directories": {
     "lib": "./src/lib"
   },
-  "homepage": "https://github.com/nouvak/cypress-magento-rest-client#readme",
+  "homepage": "https://github.com/studioraz/cypress-magento-rest-client#readme",
   "keywords": [
     "magento2",
     "REST",
