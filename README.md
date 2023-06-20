@@ -1,0 +1,1 @@
+# cypress-magento-rest-client
